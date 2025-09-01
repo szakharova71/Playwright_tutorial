@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","test_add_todo[chromium]","","Mon Sep 01 12:23:31 UTC 2025","broken","Mon Sep 01 12:23:31 UTC 2025","","test_todo_lesson2_2_step2","",""
+"","0","Авторизация с корректными учетными данными","","Mon Sep 01 12:23:31 UTC 2025","broken","Mon Sep 01 12:23:31 UTC 2025","","test_login","",""
+"","67","test_add_todo","","Mon Sep 01 12:23:31 UTC 2025","broken","Mon Sep 01 12:23:31 UTC 2025","","test_todo","",""
+"","0","Авторизация с корректными учетными данными","","Mon Sep 01 12:23:31 UTC 2025","broken","Mon Sep 01 12:23:31 UTC 2025","","test_login","",""
+"","0","Авторизация с недействительными учетными данными","","Mon Sep 01 12:23:30 UTC 2025","broken","Mon Sep 01 12:23:30 UTC 2025","","test_login","",""
